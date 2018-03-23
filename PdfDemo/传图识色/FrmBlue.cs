@@ -175,7 +175,7 @@ namespace ColorStatistics
 
         private void CmdDeal_Click(object sender, EventArgs e)
         {
-           
+           //这个是测试功能
             if (Thumb.Image !=null ) 
             {
                 Stopwatch Sw = new Stopwatch();
