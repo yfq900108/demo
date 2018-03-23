@@ -173,3 +173,4 @@ C:\YFQ\DEMO\PdfDemo\MvcWebApi\bin\zh-Hans\System.Web.WebPages.Deployment.resourc
 C:\YFQ\DEMO\PdfDemo\MvcWebApi\bin\zh-Hans\System.Web.WebPages.Razor.resources.dll
 C:\YFQ\DEMO\PdfDemo\MvcWebApi\obj\Debug\MvcWebApi.dll
 C:\YFQ\DEMO\PdfDemo\MvcWebApi\obj\Debug\MvcWebApi.pdb
+C:\YFQ\DEMO\PdfDemo\MvcWebApi\obj\Debug\MvcWebApi.csprojResolveAssemblyReference.cache

@@ -18,7 +18,6 @@ C:\YFQ\DEMO\PdfDemo\EXCELNPOI\bin\Debug\EXCELNPOI.exe.config
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\bin\Debug\EXCELNPOI.exe
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\bin\Debug\EXCELNPOI.pdb
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\bin\Debug\ICSharpCode.SharpZipLib.dll
-C:\YFQ\DEMO\PdfDemo\EXCELNPOI\bin\Debug\Newtonsoft.Json.Net20.dll
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\bin\Debug\NPOI.dll
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\bin\Debug\NPOI.OOXML.dll
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\bin\Debug\NPOI.OpenXml4Net.dll
@@ -29,3 +28,4 @@ C:\YFQ\DEMO\PdfDemo\EXCELNPOI\obj\Debug\EXCELNPOI.Properties.Resources.resources
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\obj\Debug\EXCELNPOI.csproj.GenerateResource.Cache
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\obj\Debug\EXCELNPOI.exe
 C:\YFQ\DEMO\PdfDemo\EXCELNPOI\obj\Debug\EXCELNPOI.pdb
+C:\YFQ\DEMO\PdfDemo\EXCELNPOI\obj\Debug\EXCELNPOI.csprojResolveAssemblyReference.cache

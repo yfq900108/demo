@@ -33,3 +33,4 @@ C:\YFQ\DEMO\PdfDemo\PdfDemo2.0\obj\Debug\PdfDemo2._0.ShowImage.resources
 C:\YFQ\DEMO\PdfDemo\PdfDemo2.0\obj\Debug\PdfDemo2.0.csproj.GenerateResource.Cache
 C:\YFQ\DEMO\PdfDemo\PdfDemo2.0\obj\Debug\PdfDemo2.0.exe
 C:\YFQ\DEMO\PdfDemo\PdfDemo2.0\obj\Debug\PdfDemo2.0.pdb
+C:\YFQ\DEMO\PdfDemo\PdfDemo2.0\obj\Debug\PdfDemo2.0.csprojResolveAssemblyReference.cache

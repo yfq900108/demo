@@ -20,3 +20,4 @@ C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Form3.resources
 C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Form4.resources
 C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Properties.Resources.resources
 C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.csproj.GenerateResource.Cache
+C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.csprojResolveAssemblyReference.cache
