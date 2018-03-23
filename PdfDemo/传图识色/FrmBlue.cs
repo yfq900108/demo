@@ -950,7 +950,7 @@ namespace ColorStatistics
             { 
             
               Thread.Sleep(1000);
-              //被赞统计    于富强    
+              //被赞统计    于富强1    
               DataSet DS = DbHelperSQL.ExecuteDataset(CommandType.Text, "SELECT id FROM UserInformations   ");
 
               string sqlupdateZan = "";
