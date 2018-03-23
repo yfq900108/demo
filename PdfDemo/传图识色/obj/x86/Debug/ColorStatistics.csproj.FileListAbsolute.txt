@@ -1,0 +1,12 @@
+C:\YFQ\DEMO\PdfDemo\传图识色\obj\x86\Debug\ColorStatistics.FrmTest.resources
+C:\YFQ\DEMO\PdfDemo\传图识色\obj\x86\Debug\ColorStatistics.Properties.Resources.resources
+C:\YFQ\DEMO\PdfDemo\传图识色\obj\x86\Debug\ColorStatistics.csproj.GenerateResource.Cache
+C:\YFQ\DEMO\PdfDemo\传图识色\bin\Debug\ColorStatistics.exe
+C:\YFQ\DEMO\PdfDemo\传图识色\bin\Debug\ColorStatistics.pdb
+C:\YFQ\DEMO\PdfDemo\传图识色\obj\x86\Debug\ColorStatistics.exe
+C:\YFQ\DEMO\PdfDemo\传图识色\obj\x86\Debug\ColorStatistics.pdb
+C:\YFQ\DEMO\PdfDemo\传图识色\obj\x86\Debug\ColorStatistics.FrmBlue.resources
+C:\YFQ\DEMO\PdfDemo\传图识色\bin\Debug\ColorStatistics.exe.config
+C:\YFQ\DEMO\PdfDemo\传图识色\obj\x86\Debug\ColorStatistics.csprojResolveAssemblyReference.cache
+C:\YFQ\DEMO\PdfDemo\传图识色\bin\Debug\AXC.dll
+C:\YFQ\DEMO\PdfDemo\传图识色\bin\Debug\AXC.pdb

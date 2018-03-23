@@ -1,0 +1,71 @@
+﻿
+--微型  K4、D 汽油  出租#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.CLLXNEW='K4'  
+group by t.STANDARD ;
+ 
+--小型  K3、D 汽油  出租#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE   T.CLLXNEW='K3'   
+group by t.STANDARD ;
+ 
+
+--中型  K2 C 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.CLLXNEW='K2' 
+group by t.STANDARD ;
+ 
+--大型  K1 C 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.CLLXNEW='K1'   
+group by t.STANDARD ;
+ 
+
+--微型  H4 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.CLLXNEW='H4'  
+group by t.STANDARD ;
+ 
+--轻型  H3、Q3 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.CLLXNEW='H3' OR  T.CLLXNEW='Q3'
+group by t.STANDARD ;
+ 
+
+--中型  H2、Q2 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.CLLXNEW='H2' OR  T.CLLXNEW='Q2'
+group by t.STANDARD ;
+ 
+
+--重型  H1、Q5 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.CLLXNEW='H1' OR  T.CLLXNEW='Q5'
+group by t.STANDARD ;
+ 
+--三轮  N1 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE   T.CLLXNEW='N1' 
+group by t.STANDARD ;
+
+--低速货车  H5 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE   T.CLLXNEW='H5'  
+group by t.STANDARD 
+--中、重型半挂Q21 #
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.cllx='Q21'   
+group by t.STANDARD ;
+--中、重型半挂 Q11#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.cllx='Q11'   
+group by t.STANDARD ;
+--专项作业车Z11 #
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.cllx='Z11'   
+group by t.STANDARD ;
+--专项作业车 Z12 #
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.cllx='Z12'   
+group by t.STANDARD ;
+--专项作业车 Z21 #
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.cllx='Z21'   
+group by t.STANDARD ;
+--专项作业车  Z22 #
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.cllx='Z22'   
+group by t.STANDARD ;
+--专项作业车 Z51 #
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.cllx='Z51'   
+group by t.STANDARD ;
+--专项作业车 Z52 #
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE  T.cllx='Z52'   
+group by t.STANDARD ;
+ 
+
+ 

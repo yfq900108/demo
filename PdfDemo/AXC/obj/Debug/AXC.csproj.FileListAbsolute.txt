@@ -1,0 +1,10 @@
+F:\DEMO\PdfDemo\AXC\bin\Debug\AXC.dll
+F:\DEMO\PdfDemo\AXC\bin\Debug\AXC.pdb
+F:\DEMO\PdfDemo\AXC\obj\Debug\AXC.csprojResolveAssemblyReference.cache
+F:\DEMO\PdfDemo\AXC\obj\Debug\AXC.dll
+F:\DEMO\PdfDemo\AXC\obj\Debug\AXC.pdb
+C:\YFQ\DEMO\PdfDemo\AXC\obj\Debug\AXC.dll
+C:\YFQ\DEMO\PdfDemo\AXC\obj\Debug\AXC.pdb
+C:\YFQ\DEMO\PdfDemo\AXC\bin\Debug\AXC.dll
+C:\YFQ\DEMO\PdfDemo\AXC\bin\Debug\AXC.pdb
+C:\YFQ\DEMO\PdfDemo\AXC\obj\Debug\AXC.csprojResolveAssemblyReference.cache

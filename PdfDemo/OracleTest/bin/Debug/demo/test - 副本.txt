@@ -1,0 +1,123 @@
+﻿
+--微型  K4、D 汽油  出租#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='K4'  AND T.SYXZ='D'
+group by t.STANDARD ;
+--微型  K4、D 其他 出租#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!='501' AND T.CLLXNEW='K4'  AND T.SYXZ='D'
+group by t.STANDARD ;
+--微型  K4 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='K4'  
+group by t.STANDARD ;
+--微型  K4 其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!='501' AND T.CLLXNEW='K4' 
+group by t.STANDARD ;
+--小型  K3、D 汽油  出租#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='K3'  AND T.SYXZ='D'
+group by t.STANDARD ;
+--小型  K3、D 柴油  出租#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='K3'  AND T.SYXZ='D'
+group by t.STANDARD ;
+--小型  K3、D 其他   出租#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' AND T.CLLXNEW='K3'  AND T.SYXZ='D'
+group by t.STANDARD ;
+--小型  K3 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='K3'  
+group by t.STANDARD ;
+--小型  K3  柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='K3'  
+group by t.STANDARD ;
+--小型  K3  其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' AND T.CLLXNEW='K3'  
+group by t.STANDARD ;
+
+--中型  K2 C 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='K2'  AND T.SYXZ='C'
+group by t.STANDARD ;
+--中型  K2  C  柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='K2'  AND T.SYXZ='C'
+group by t.STANDARD ;
+--中型  K2  C  其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' AND T.CLLXNEW='K2'  AND T.SYXZ='C'
+group by t.STANDARD ;
+
+
+--中型  K2 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='K2'  
+group by t.STANDARD ;
+--中型  K2  柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='K2'  
+group by t.STANDARD ;
+--中型  K2  其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' AND T.CLLXNEW='K2'  
+group by t.STANDARD ;
+
+--大型  K1 C 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='K1'  AND T.SYXZ='C'
+group by t.STANDARD ;
+--大型  K1  C  柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='K1'  AND T.SYXZ='C'
+group by t.STANDARD ;
+--大型  K1  C  其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' AND T.CLLXNEW='K1'  AND T.SYXZ='C'
+group by t.STANDARD ;
+
+
+--大型  K1 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='K1'  
+group by t.STANDARD ;
+--大型  K1  柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='K1'  
+group by t.STANDARD ;
+--大型  K1  其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' AND T.CLLXNEW='K1'  
+group by t.STANDARD ;
+
+
+--微型  H4 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='H4'  
+group by t.STANDARD ;
+--微型  H4  柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='H4'  
+group by t.STANDARD ;
+--微型  H4  其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' AND T.CLLXNEW='H4'  
+group by t.STANDARD ;
+
+--轻型  H3、Q3 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='H3' OR  T.CLLXNEW='Q3'
+group by t.STANDARD ;
+--轻型  H3、Q3  柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='H3' OR  T.CLLXNEW='Q3'
+group by t.STANDARD ;
+--轻型  H3、Q3  其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502'and T.CLLXNEW='H3' OR  T.CLLXNEW='Q3'  
+group by t.STANDARD ;
+
+
+--中型  H2、Q2 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='H2' OR  T.CLLXNEW='Q2'
+group by t.STANDARD ;
+--中型  H2、Q2   柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='H2' OR  T.CLLXNEW='Q2'
+group by t.STANDARD ;
+--中型  H2、Q2   其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' and T.CLLXNEW='H2' OR  T.CLLXNEW='Q2'  
+group by t.STANDARD ;
+
+--重型  H1、Q5 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='H1' OR  T.CLLXNEW='Q5'
+group by t.STANDARD ;
+--重型  H1、Q5   柴油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='502' AND T.CLLXNEW='H1' OR  T.CLLXNEW='Q5'
+group by t.STANDARD ;
+--重型  H1、Q5   其他#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE!= '501' and  T.OIL_TYPE!= '502' and T.CLLXNEW='H1' OR  T.CLLXNEW='Q5'  
+group by t.STANDARD ;
+
+--三轮  N1 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='N1' 
+group by t.STANDARD ;
+
+--低速货车  H5 汽油#
+select t.STANDARD ,count(0) cc from vheiclestatics T WHERE T.OIL_TYPE='501' AND T.CLLXNEW='H5'  
+group by t.STANDARD 

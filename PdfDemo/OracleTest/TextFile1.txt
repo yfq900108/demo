@@ -1,0 +1,123 @@
+﻿select *from 
+(
+--select 'ASM'  TYPE ,
+--nvl(100*round((K1.ASM_ - nvl(K3.ASM_NO_COUNT,0)) / K1.ASM_,4),0)    ONEPASS ,
+--nvl(100*round((K1.ASM_ - nvl(K4.ASM_NO_PASS,0))/K1.ASM_, 4)  ,0) PASS
+select 'ASM'  "类型" ,
+nvl(100*round((K1.ASM_ - nvl(K3.ASM_NO_COUNT,0)) / K1.ASM_,4),0)    "一次性合格率" ,
+nvl(100*round((K1.ASM_ - nvl(K4.ASM_NO_PASS,0))/K1.ASM_, 4)  ,0) "总合格率"
+from 
+(
+--在用车 今年ASM检测车辆总数
+select  COUNT(0) ASM_   from(
+select  
+distinct a.vehicle_sn
+from asm_result a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+))K1,
+(
+--在用车  今年ASM首检不合格次数
+select  COUNT(0) ASM_NO_COUNT   from(
+select  
+a.inspection_id
+from asm_result a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+and PASSED = 'N'
+)) K3,
+(
+--在用车，今年ASM检测不合格次数
+select  COUNT(0)  ASM_NO_PASS   from(
+select  
+a.inspection_id
+from asm_result a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+and PASSED = 'N'
+and a.VEHICLE_SN not in (
+select a.VEHICLE_SN from ASM_RESULT a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn and PASSED = 'Y' and 
+to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 ) AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+)
+))K4
+)
+UNION
+SELECT * FROM (
+SELECT   '怠速'  "类型" ,
+nvl(100*round((K5.IDLE_ - nvl(K7.IDLE_NO_COUNT,0)) / K5.IDLE_,4),0)   ONEPASS,
+nvl(100*round((K5.IDLE_ - nvl(K8.IDLE_NO_PASS,0))/K5.IDLE_, 4)  ,0) PASS
+FROM (
+--在用车 今年IDLE检测车辆总数
+select  COUNT(0) IDLE_   from(
+select  
+distinct a.vehicle_sn
+from IDLE_SPEED_RESULT a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+))K5,
+(
+--在用车  今年IDLE首检不合格次数
+select  COUNT(0) IDLE_NO_COUNT   from(
+select  
+a.inspection_id
+from IDLE_SPEED_RESULT a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+and PASSED = 'N'
+)) K7,
+(
+--在用车，今年IDLE检测不合格次数
+select  COUNT(0) IDLE_NO_PASS   from(
+select  
+a.inspection_id
+from IDLE_SPEED_RESULT a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+and PASSED = 'N'
+and a.VEHICLE_SN not in (
+select a.VEHICLE_SN from IDLE_SPEED_RESULT a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn and PASSED = 'Y' and 
+to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 ) AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+)
+))K8
+)
+union
+select * from 
+(
+SELECT   '自由加速'  "类型" ,
+nvl(100*round((K9.FILTERMETER_ - nvl(K11.FILTERMETER_NO_COUNT,0)) / K9.FILTERMETER_,4),0)  ONEPASS,
+nvl(100*round((K9.FILTERMETER_ - nvl(K12.FILTERMETER_NO_PASS,0))/K9.FILTERMETER_, 4)  ,0)  PASS
+from(
+--在用车 今年FILTERMETER检测车辆总数
+select  COUNT(0) FILTERMETER_   from(
+select  
+distinct a.vehicle_sn
+from filtermeter_result a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+))K9,
+
+(
+--在用车  今年FILTERMETER首检不合格次数
+select  COUNT(0) FILTERMETER_NO_COUNT   from(
+select  
+a.inspection_id
+from filtermeter_result a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+and PASSED = 'N'
+)) K11,
+(
+--在用车，今年FILTERMETER检测不合格次数
+select  COUNT(0) FILTERMETER_NO_PASS   from(
+select  
+a.inspection_id
+from filtermeter_result a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn --and v.vehicle_name like '%东风%' 
+AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+AND to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 )
+and PASSED = 'N'
+and a.VEHICLE_SN not in (
+select a.VEHICLE_SN from filtermeter_result a,vehicle_base_info v where v.vehicle_sn=a.vehicle_sn and PASSED = 'Y' and 
+to_char(INSPECTION_DATE,'yyyy') =(extract(year from sysdate) -1 ) AND v.Vehicle_Status IN ( select ZT from zt_status where stauts='Y') 
+)
+))K12
+)

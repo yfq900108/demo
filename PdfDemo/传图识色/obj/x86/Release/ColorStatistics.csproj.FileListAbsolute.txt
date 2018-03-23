@@ -1,0 +1,11 @@
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\bin\Release\ColorStatistics.exe
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\bin\Release\ColorStatistics.pdb
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\obj\x86\Release\ColorStatistics.Properties.Resources.resources
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\obj\x86\Release\ColorStatistics.exe
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\obj\x86\Release\ColorStatistics.pdb
+C:\Users\pengw\Desktop\ColorStatistics\ColorStatistics\obj\x86\Release\ColorStatistics.FrmTest.resources
+D:\程序设计\C#\ColorStatistics\ColorStatistics\obj\x86\Release\ColorStatistics.exe
+D:\程序设计\C#\ColorStatistics\ColorStatistics\obj\x86\Release\ColorStatistics.pdb

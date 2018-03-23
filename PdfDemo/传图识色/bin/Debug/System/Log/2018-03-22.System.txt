@@ -1,0 +1,909 @@
+Time:    2018-03-22 11:13:07
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:07
+Action:  log:
+Message: update PictureMainInformation set BlueValue=1    where ID='3d5305be-ae83-41a1-bdcd-c5bfdda95f21'; update PictureMainInformation set BlueValue=1    where ID='687e5959-5444-43ac-8289-cdc9b367df09'; update PictureMainInformation set BlueValue=1    where ID='a2cc8bf8-87f6-4c23-8cdb-57547b55e7fb'; update PictureMainInformation set BlueValue=1    where ID='bcc72b39-6358-4bd5-a980-bc59ecea26ce'; update PictureMainInformation set BlueValue=1    where ID='d1482110-638e-4ae4-a603-56e69536f033'; update PictureMainInformation set BlueValue=1    where ID='effb1bcc-d619-4473-8d93-5a49fc88c834'; 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:13
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:13
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:20
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:20
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:22
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:22
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:22
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:22
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:22
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:22
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:23
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:23
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:23
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:23
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:23
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:23
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:23
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:23
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:24
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:24
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:24
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 729
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:13:24
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:10
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:10
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:25
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:25
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:25
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:25
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:25
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:25
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:26
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:26
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:26
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:26
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:26
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:26
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:26
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:26
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:27
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:27
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:27
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:27
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:27
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:27
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:27
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:27
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:14:28
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:05
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:05
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:08
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:08
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:08
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:08
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:08
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:08
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:08
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:08
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:09
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:09
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:09
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:09
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:09
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:09
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:19
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:19
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:19
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:19
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:20
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:20
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:20
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:20
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:20
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:20
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:20
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:20
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:21
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:21
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:21
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:21
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:22
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:22
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:22
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:22
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:22
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:22
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:23
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:23
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:23
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:23
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:24
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:24
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:24
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:24
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:24
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:24
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:25
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 730
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:19:25
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:37
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:37
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:38
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:38
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:39
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:39
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:42
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:42
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:43
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:43
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:44
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:44
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:44
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:44
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:44
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:44
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:44
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:44
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:45
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:45
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:45
+Action:  log:
+Message: System.IO.FileNotFoundException: D:\Update\//2018-03-19//1521462160812onbnS5DF8hLUFkPIg3TQjbxV8xH40.jpg
+   在 System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   在 System.Drawing.Image.FromFile(String filename)
+   在 ColorStatistics.FrmBlue.A() 位置 c:\YFQ\DEMO\PdfDemo\传图识色\FrmBlue.cs:行号 732
+-----------------------------------------------------------
+
+
+Time:    2018-03-22 11:22:45
+Action:  log:
+Message: 
+-----------------------------------------------------------
+
+
