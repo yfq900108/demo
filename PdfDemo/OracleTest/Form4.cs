@@ -93,5 +93,40 @@ REMARK=REMARK||'-201836，许立峰更新STANDARD为：'||'403'||'-' ,STANDARD='
             myCommand.Fill(ds, "table1");
             return ds;
         }
+
+        private void Form4_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            DataSet dd = ExcelToDS("D:\\cma.xls");
+            Helper helper = new Helper("Data Source=172.128.2.1/veims;User ID=zte;Password=zsfyqch;");
+
+            DataTable ff = dd.Tables[0];
+            string sss = "";
+            int ss = 0;
+            //2897
+            foreach (DataRow dr in ff.Rows)
+            {
+                if (ss > 0 && dr[0].ToString() != "无查询结果"&&dr[0].ToString() != "")
+                {
+                string sql = string.Format(@"update inspection_station set EXPIRATION=to_date('{0}','YYYY-MM-SS') where station_id='{1}'
+
+ ", dr[0].ToString(), dr[1].ToString());
+
+                ss += helper.ExecuteNonQuery1(sql);
+                }
+                else
+                {
+                    ss += 1;
+                }
+            }
+
+
+
+            MessageBox.Show(ss.ToString());
+        }
     }
 }
