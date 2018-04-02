@@ -39,3 +39,17 @@ C:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.ShowImage.resources
 C:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.csproj.GenerateResource.Cache
 C:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.exe
 C:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.pdb
+G:\YFQ\DEMO\PdfDemo\PdfDemo\bin\Debug\PdfDemo.exe.config
+G:\YFQ\DEMO\PdfDemo\PdfDemo\bin\Debug\PdfDemo.exe
+G:\YFQ\DEMO\PdfDemo\PdfDemo\bin\Debug\PdfDemo.pdb
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.csprojResolveAssemblyReference.cache
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.Form1.resources
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.Form3.resources
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.FormImage1.resources
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.FormImage2.resources
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.FormPDF.resources
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.Properties.Resources.resources
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.ShowImage.resources
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.csproj.GenerateResource.Cache
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.exe
+G:\YFQ\DEMO\PdfDemo\PdfDemo\obj\Debug\PdfDemo.pdb

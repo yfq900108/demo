@@ -28,3 +28,12 @@ C:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.csproj.Generat
 C:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.exe
 C:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.pdb
 C:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.csprojResolveAssemblyReference.cache
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\bin\Debug\ExcelExportNpoi.exe.config
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\bin\Debug\ExcelExportNpoi.exe
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\bin\Debug\ExcelExportNpoi.pdb
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.csprojResolveAssemblyReference.cache
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.Mytest.resources
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.Properties.Resources.resources
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.csproj.GenerateResource.Cache
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.exe
+G:\YFQ\DEMO\PdfDemo\ExcelExportNpoi\obj\x86\Debug\ExcelExportNpoi.pdb

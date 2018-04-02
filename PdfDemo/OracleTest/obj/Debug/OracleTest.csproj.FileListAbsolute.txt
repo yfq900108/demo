@@ -21,3 +21,15 @@ C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Form4.resources
 C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Properties.Resources.resources
 C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.csproj.GenerateResource.Cache
 C:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.csprojResolveAssemblyReference.cache
+G:\YFQ\DEMO\PdfDemo\OracleTest\bin\Debug\OracleTest.exe.config
+G:\YFQ\DEMO\PdfDemo\OracleTest\bin\Debug\OracleTest.exe
+G:\YFQ\DEMO\PdfDemo\OracleTest\bin\Debug\OracleTest.pdb
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.csprojResolveAssemblyReference.cache
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Form1.resources
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Form2.resources
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Form3.resources
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Form4.resources
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.Properties.Resources.resources
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.csproj.GenerateResource.Cache
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.exe
+G:\YFQ\DEMO\PdfDemo\OracleTest\obj\Debug\OracleTest.pdb

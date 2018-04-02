@@ -27,3 +27,17 @@ C:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.Properties.Resources.resources
 C:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.csproj.GenerateResource.Cache
 C:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.exe
 C:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.pdb
+G:\YFQ\DEMO\PdfDemo\AccessBD\bin\Debug\AccessBD.exe.config
+G:\YFQ\DEMO\PdfDemo\AccessBD\bin\Debug\AccessBD.exe
+G:\YFQ\DEMO\PdfDemo\AccessBD\bin\Debug\AccessBD.pdb
+G:\YFQ\DEMO\PdfDemo\AccessBD\bin\Debug\AXC.dll
+G:\YFQ\DEMO\PdfDemo\AccessBD\bin\Debug\ExcelExportNpoi.exe
+G:\YFQ\DEMO\PdfDemo\AccessBD\bin\Debug\NPOI.dll
+G:\YFQ\DEMO\PdfDemo\AccessBD\bin\Debug\AXC.pdb
+G:\YFQ\DEMO\PdfDemo\AccessBD\bin\Debug\ExcelExportNpoi.pdb
+G:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.csprojResolveAssemblyReference.cache
+G:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.Form1.resources
+G:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.Properties.Resources.resources
+G:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.csproj.GenerateResource.Cache
+G:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.exe
+G:\YFQ\DEMO\PdfDemo\AccessBD\obj\Debug\AccessBD.pdb

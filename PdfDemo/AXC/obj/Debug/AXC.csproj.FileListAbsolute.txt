@@ -8,3 +8,8 @@ C:\YFQ\DEMO\PdfDemo\AXC\obj\Debug\AXC.pdb
 C:\YFQ\DEMO\PdfDemo\AXC\bin\Debug\AXC.dll
 C:\YFQ\DEMO\PdfDemo\AXC\bin\Debug\AXC.pdb
 C:\YFQ\DEMO\PdfDemo\AXC\obj\Debug\AXC.csprojResolveAssemblyReference.cache
+G:\YFQ\DEMO\PdfDemo\AXC\bin\Debug\AXC.dll
+G:\YFQ\DEMO\PdfDemo\AXC\bin\Debug\AXC.pdb
+G:\YFQ\DEMO\PdfDemo\AXC\obj\Debug\AXC.csprojResolveAssemblyReference.cache
+G:\YFQ\DEMO\PdfDemo\AXC\obj\Debug\AXC.dll
+G:\YFQ\DEMO\PdfDemo\AXC\obj\Debug\AXC.pdb
